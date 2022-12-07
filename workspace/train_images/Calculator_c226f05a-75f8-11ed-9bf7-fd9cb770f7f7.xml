@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>Calculator_c226f05a-75f8-11ed-9bf7-fd9cb770f7f7.jpg</filename>
+	<path>/home/ayat/Desktop/ObjectDetection/workspace/data/Calculator_c226f05a-75f8-11ed-9bf7-fd9cb770f7f7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>calculator</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>480</xmin>
+			<ymin>131</ymin>
+			<xmax>599</xmax>
+			<ymax>350</ymax>
+		</bndbox>
+	</object>
+</annotation>
